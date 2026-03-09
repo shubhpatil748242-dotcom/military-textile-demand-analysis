@@ -85,9 +85,18 @@ military-textile-demand-analysis
 - Data Visualization  
 - Correlation Analysis  
 - Predictive Modeling  
-- Geospatial Analysis  
+- Geospatial Analysis
 
----
+## Visualizations
+
+### Top Countries by Military Textile Demand
+![Top Textile Demand](top10_textile_demand.png)
+
+### Military Spending vs Textile Demand
+![Spending vs Demand](spending_vs_textile_demand.png)
+
+### Correlation Between Military Variables
+![Correlation Heatmap](correlation_heatmap.png)
 
 ## Conclusion
 
